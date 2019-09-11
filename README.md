@@ -19,4 +19,4 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 ## Person liable
 |#|Name |Mail* |
 |:-----|:----- |:-----|
-|18级|[Yu Wang](https://github.com/Yu-Wang-0801)|949374585@qq.com|
+|18级|[Xiujuan Lang](https://github.com/langxiujuan)|2675017092@qq.com|
