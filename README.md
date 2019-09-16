@@ -9,8 +9,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(TENet) Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution| [arXiv](https://arxiv.org/pdf/1905.02538.pdf)|[Pytorch](https://github.com/guochengqian/TENet)| a Joint Solution for Demosaicking, Denoising and Super-Resolution | Jiaming Wang|
 |Hybrid Noise Removal in Hyperspectral Imagery with a Spatial-Spectral Gradient Network| [arXiv](https://arxiv.org/ftp/arxiv/papers/1810/1810.00495.pdf)|[Code](https://github.com/WHUQZhang/SSGN)|Hyperspectral, hybrid noise, spatial-spectral,gradient learning, multi-scale convolutional network.|Xiujaun Lang|
 |Deep Hyperspectral Prior: Denoising, Inpainting, Super-Resolution| [arXiv](https://arxiv.org/ftp/arxiv/papers/1902/1902.00301.pdf)| [Code](https://github.com/acecreamu/deep-hs-prior)| Hyperspectral imaging, deep learning,single-image processing, 3D-CNN|Xiujuan Lang|
-|Hyperspectral Image Denoising Employing a Spatial–Spectral Deep Residual Convolutional Neural Network| [PDF](http://sci-hub.tw/10.1109/TGRS.2018.2865197)|[Code](https://github.com/WHUQZhang/HSID-CNN)|Hyperspectral image (HSI) denoising, spatial–
-spectral, convolutional neural network (CNN), multiscale feature extraction.|Xiujaun Lang|
+|Hyperspectral Image Denoising Employing a Spatial–Spectral Deep Residual Convolutional Neural Network| [PDF](http://sci-hub.tw/10.1109/TGRS.2018.2865197)|[Code](https://github.com/WHUQZhang/HSID-CNN)|Hyperspectral image (HSI) denoising, spatial–spectral, convolutional neural network (CNN), multiscale feature extraction.|Xiujaun Lang|
 ## Link of datasets
 *(please contact me if any of links offend you or any one disabled)*
 
