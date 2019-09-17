@@ -7,9 +7,9 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Model |Published |Code|Keywords|Person liable*|
 |:-----|:---------|:-----|:-------|:-------|
 |(TENet) Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution| [IVP2019](https://arxiv.org/pdf/1905.02538.pdf)|[Pytorch](https://github.com/guochengqian/TENet)| a Joint Solution for Demosaicking, Denoising and Super-Resolution | Jiaming Wang|
-|Hybrid Noise Removal in Hyperspectral Imagery with a Spatial-Spectral Gradient Network| [IEEE2019](https://arxiv.org/ftp/arxiv/papers/1810/1810.00495.pdf)|[Code](https://github.com/WHUQZhang/SSGN)|Hyperspectral, hybrid noise, spatial-spectral,gradient learning, multi-scale convolutional network.|Xiujaun Lang|
+|Hybrid Noise Removal in Hyperspectral Imagery with a Spatial-Spectral Gradient Network| [IEEE2019](https://arxiv.org/ftp/arxiv/papers/1810/1810.00495.pdf)|[Code](https://github.com/WHUQZhang/SSGN)|Hyperspectral, hybrid noise, spatial-spectral,gradient learning, multi-scale convolutional network.|Xiujuan Lang|
 |Deep Hyperspectral Prior: Denoising, Inpainting, Super-Resolution| [ICIP2019](https://arxiv.org/ftp/arxiv/papers/1902/1902.00301.pdf)| [Pytorch](https://github.com/acecreamu/deep-hs-prior)| Hyperspectral imaging, deep learning,single-image processing, 3D-CNN|Xiujuan Lang|
-|Hyperspectral Image Denoising Employing a Spatial–Spectral Deep Residual Convolutional Neural Network| [IEEE2019](https://arxiv.org/ftp/arxiv/papers/1806/1806.00183.pdf)|[Caffe](https://github.com/WHUQZhang/HSID-CNN)|Hyperspectral image (HSI) denoising, spatial–spectral, convolutional neural network (CNN), multiscale feature extraction.|Xiujaun Lang|
+|Hyperspectral Image Denoising Employing a Spatial–Spectral Deep Residual Convolutional Neural Network| [IEEE2019](https://arxiv.org/ftp/arxiv/papers/1806/1806.00183.pdf)|[Caffe](https://github.com/WHUQZhang/HSID-CNN)|Hyperspectral image (HSI) denoising, spatial–spectral, convolutional neural network (CNN), multiscale feature extraction.|Xiujuan Lang|
 ## Link of datasets
 *(please contact me if any of links offend you or any one disabled)*
 
